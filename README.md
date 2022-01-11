@@ -7,7 +7,8 @@
 # Utilities
 ## 1. FluidBucket
     Portable Container for Water, Lava and PowderSnow
-__DataValue__: `{FluidContainer:{FluidType:"empty",Amounts:{water:0,lava:0,snow:0}}}`
+#### DataValue
+ `{FluidContainer:{FluidType:"empty",Amounts:{water:0,lava:0,snow:0}}}`
 #### Feature
     1. Switch Fluid Type (Double Sneak)
     2. Stock Every Fluid in 1 Item
