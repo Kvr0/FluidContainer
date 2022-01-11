@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "b",
+      "e",
+      "a"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:bucket"
+      },
+      "e": {
+        "item": "minecraft:enchanting_table"
+      },
+      "b": {
+        "item": "minecraft:iron_trapdoor"
+      }
+    },
+    "result": {
+      "item": "minecraft:chest"
+    }
+  }
+  
