@@ -1,0 +1,15 @@
+{
+    "parent": "fluidcontainer:craft/root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "fluidcontainer:fluidbucket"
+        }
+      }
+    },
+    "rewards": {
+      "function": "fluidcontainer:fluidbucket/private/craft"
+    }
+  }
+  
